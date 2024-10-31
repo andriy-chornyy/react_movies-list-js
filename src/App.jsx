@@ -26,7 +26,6 @@ import { MovieList } from './components/MovieList/MovieList';
 //   </div>
 // );
 
-
 export const App = () => (
   <div className="page">
     <div className="page-content">
